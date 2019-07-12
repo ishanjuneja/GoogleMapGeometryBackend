@@ -1,0 +1,8 @@
+/.settings/
+/target/
+/.classpath
+/.project
+/bin/
+/.springBeans
+/azure-pipelines.yml
+/data_ingestion.zip
